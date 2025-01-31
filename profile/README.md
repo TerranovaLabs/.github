@@ -16,7 +16,7 @@ Explore our open-source and public projects:
 
 | Repository | Description |
 |------------|------------|
-| [Name](url) | Description. |
+| [.github](https://github.com/TerranovaLabs/.github/tree/main) | Our public GitHub profile. |
 | More coming soon... |
 
 ## 🛠 How We Work
