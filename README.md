@@ -1,2 +1,2 @@
 # .github
-The organization's public and private profile.
+The organization's public profile.
