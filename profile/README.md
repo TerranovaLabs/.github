@@ -8,8 +8,7 @@
 - **Python and Scripting**
 - **Process Automation & Code Generation**
 - **Computational Design & Parametric Workflows**
-- **Cross-Version API Wrapping**
-- **Rust Exploration for High-Performance Apps**
+- **Full-Stack Development & Design**
 
 ## 📂 Public Repositories
 Explore our open-source and public projects:
