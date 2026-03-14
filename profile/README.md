@@ -3,7 +3,5 @@
 
 ## Website Projects
 <!-- terranovalabs-website-projects:start -->
-- https://github.com/TerranovaLabs/example-project-alpha
-- https://github.com/TerranovaLabs/example-project-beta
-- https://github.com/TerranovaLabs/example-project-gamma
+- https://github.com/TerranovaLabs/TL.CloneManager
 <!-- terranovalabs-website-projects:end -->
